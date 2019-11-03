@@ -74,8 +74,9 @@
 		}
 		.header .first>div:last-child{
 			float: right;
+			width: 150px;
 			/*margin-right: 20px;*/
-			font-size: 20px;
+			font-size: 30px;
 		}
 		.header .first::after{
 			display: block;
